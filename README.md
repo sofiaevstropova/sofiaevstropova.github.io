@@ -1,1 +1,1 @@
-[My page]: https://sofiaevstropova.github.io
+[MyPage]: https://sofiaevstropova.github.io
